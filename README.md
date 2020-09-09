@@ -5,7 +5,7 @@
 
 ## 專案介紹影片
 
-[![](http://img.youtube.com/vi/thGprntYxC0/0.jpg)](http://www.youtube.com/watch?v=thGprntYxC0 "")
+[![Alt Text](https://i.imgur.com/Fq65gAL.png)](http://www.youtube.com/watch?v=thGprntYxC0)
 
 ## 徵求
 

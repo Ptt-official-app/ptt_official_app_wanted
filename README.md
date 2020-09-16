@@ -24,7 +24,10 @@
 4. 新的程式語言與架構，吸引更多有興趣的開發者協助營運。
 
 ## 系統架構
-#### 目前團隊分組
+
+![](https://i.imgur.com/TGnnDFx.png)
+
+## 目前團隊分組
 - App Developer (iOS/Android)
 - UI/UX
 - Backend

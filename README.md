@@ -25,7 +25,7 @@
 
 ## 系統架構
 
-![](https://i.imgur.com/S2molHa.jpg)
+![](https://i.imgur.com/VtGK0n8.jpg)
 
 ## 目前團隊分組
 - App Developer (iOS/Android)
